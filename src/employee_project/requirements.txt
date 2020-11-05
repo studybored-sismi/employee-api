@@ -1,0 +1,17 @@
+antiorm
+appdirs
+asgiref
+db
+db-sqlite3
+distlib
+Django
+djangorestframework
+filelock
+pbr
+pytz
+six
+sqlparse
+stevedore
+virtualenv
+virtualenv-clone
+virtualenvwrapper
